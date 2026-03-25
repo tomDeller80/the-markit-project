@@ -1,8 +1,8 @@
 # The MarkIt! Project 📸
 > **Professional Layered Watermarking for Windows**
 
-[![GitHub release](https://img.shields.io/github/v/release/tomDeller80/MarkIt)](https://github.com/tomDeller80/markit/releases)
-[![Platform](https://img.shields.io/badge/platform-windows-blue)](https://github.com/tomDeller80/markit/releases)
+[![GitHub release](https://img.shields.io/github/v/release/tomDeller80/the-markit-project)](https://github.com/tomDeller80/the-markit-project/releases)
+[![Platform](https://img.shields.io/badge/platform-windows-blue)](https://github.com/tomDeller80/the-markit-project/releases)
 ![Language](https://img.shields.io/badge/python-3.10+-3776ab?logo=python)
 
 ## 📥 Quick Download

@@ -1,4 +1,4 @@
-# MarkIt! 📸
+# The MarkIt! Project 📸
 > **Professional Layered Watermarking for Windows**
 
 [![GitHub release](https://img.shields.io/github/v/release/tomDeller80/MarkIt)](https://github.com/tomDeller80/markit/releases)

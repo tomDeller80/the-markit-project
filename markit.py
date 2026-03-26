@@ -23,7 +23,7 @@ class MarkIt:
     def select_preview(self):
 
         if not self.original_image:
-            path = helpers.get_resource_path('static/images/drop_zone.png')
+            path = helpers.get_resource_path('static/images/dnd.png')
             image = ImageHandler.load_image(path=path)
             self.original_image = image.convert("RGBA") if image else None
 
@@ -73,7 +73,7 @@ class MarkIt:
         dest.delete("all")
         dest.update_idletasks()
 
-        path = helpers.get_resource_path('static/images/drop_zone.png')
+        path = helpers.get_resource_path('static/images/dnd.png')
         image = ImageHandler.load_image(path=path)
 
         self.original_image = image if image else None

@@ -10,7 +10,7 @@ class Interface(ttk.Window):
 
         super().__init__(
             themename=theme,
-            title="Markit",
+            title="The Markit! Project",
         )
 
         self.minsize(1280 , 720)

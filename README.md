@@ -6,7 +6,7 @@
 ![Language](https://img.shields.io/badge/python-3.10+-3776ab?logo=python)
 
 ## 📥 Quick Download
-**Download the latest standalone executable from the [Releases Page](https://github.com/tomDeller80/the-markit-project/releases/tag/v1.0.0).**
+**Download the latest standalone executable from the [Releases Page](https://github.com/tomDeller80/the-markit-project/releases/tag/v1.0.1).**
 *No Python installation required. Just download and run.*
 
 ---
@@ -131,7 +131,30 @@ Adjust the Opacity (0-255) and Rotation (-180° to 180°) sliders. For images, y
 
 ---
 
+## 🔒 Privacy & Security
 
+- **The Markit! Project** is designed with a "Local-First" philosophy. Your data should remain yours.
+
+- **Zero Uploads:** No images, metadata, or watermarked outputs are ever transmitted to a server. All processing happens entirely on your local machine.
+
+- **No Tracking:** The application does not contain analytics, telemetry, or "phone-home" scripts.
+
+- **Offline by Design:** You can use the full suite of tools without an internet connection.
+
+[!IMPORTANT]
+
+If you see a "Cloud" icon in older documentation, it has been removed from the current version. This was a visual placeholder only and did not represent any cloud-based functionality.
+
+
+## ⚠️ Disclaimer & Security
+
+While **The Markit! Project** is built with care and transparency, please note the following:
+
+**Use at Your Own Risk:** This software is provided "as is," without warranty of any kind. The maintainers are not responsible for any data loss, hardware issues, or other damages resulting from the use of this application.
+
+**Verify Your Downloads:** For your own security, we recommend that you always scan any executable file—including ours—using a service like **[VirusTotal](https://www.virustotal.com/)** or your local antivirus software before running it.
+
+**Unsigned Executables:** Because this is an open-source project and the executable is currently unsigned, Windows SmartScreen may flag it. I encourage you to audit the source code yourself if you have any concerns before compiling or running the release.
 
 ## 📝 License
 
